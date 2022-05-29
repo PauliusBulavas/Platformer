@@ -1,0 +1,16 @@
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\bin\Debug\net6.0\Platformer.exe
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\bin\Debug\net6.0\Data\platforms.csv
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\bin\Debug\net6.0\Platformer.deps.json
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\bin\Debug\net6.0\Platformer.runtimeconfig.json
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\bin\Debug\net6.0\Platformer.dll
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\bin\Debug\net6.0\Platformer.pdb
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\Platformer.csproj.AssemblyReference.cache
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\Platformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\Platformer.AssemblyInfoInputs.cache
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\Platformer.AssemblyInfo.cs
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\Platformer.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\Platformer.dll
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\refint\Platformer.dll
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\Platformer.pdb
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\Platformer.genruntimeconfig.cache
+C:\Users\pauli\Desktop\dotnet\platformer\Platformer\obj\Debug\net6.0\ref\Platformer.dll
